@@ -1,5 +1,4 @@
 ssc
 inter
-bsc
-mca
-lawyer
+bcom
+mba
